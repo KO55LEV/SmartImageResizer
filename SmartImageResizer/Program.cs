@@ -4,9 +4,12 @@ namespace SmartImageResizer
 {
     class Program
     {
+
+        //ImageSmartResizer wrapper 
+
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            
         }
     }
 }
